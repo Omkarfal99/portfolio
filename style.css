@@ -1,0 +1,54 @@
+.rtx{
+color: rgb(255, 0, 0);
+}
+
+#gta{
+    color: aqua;
+    height: 300px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    margin: 2px;
+    border: 10px;
+    border-style:double;
+
+   
+}
+
+.elmx{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+    background-color: white;
+    width: 60px;
+    height: 20px;
+    margin: 6px;
+    display: inline-block;
+    /* border-style: solid;
+    border-color: rgb(0, 0, 0); */
+    border-radius: 90px;
+    
+
+}
+
+.elmx:hover{
+    background-color: black;
+    /* width: 80px;
+    height: 20px; */
+    /* font-size: larger; */
+    color: rgb(255, 255, 255);
+    cursor: default;
+    border-color: rgb(255, 255, 255);
+
+
+    
+}
+
+#navbl{
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px;
+}
+
+body{
+    background-color: antiquewhite
+}
